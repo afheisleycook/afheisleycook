@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @afheisleycook
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in proggramming pytohon and web and fediverse 
+- 🌱 I’m currently learning javascirptm mto experct and hoping t lenar django
+- 💞️ I’m looking to collaborate on python specif
+- 📫 How to reach me aheisleycook@gmail.com 
+
 
 <!---
 afheisleycook/afheisleycook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
