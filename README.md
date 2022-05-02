@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascirptm mto experct and hoping t lenar django
 - 💞️ I’m looking to collaborate on python specif
 - 📫 How to reach me aheisleycook@gmail.com 
-[mastodon acount](https://mastodon.lol/Ghostpony2)
+[mastodon acount](https://mastodon.lol/@Ghostpony2)
 
 <!---
 afheisleycook/afheisleycook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
