@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @afheisleycook
 - 👀 I’m interested in proggramming pytohon and web and fediverse 
-- 🌱 I’m currently learning javascirptm mto experct and hoping t lenar django
-- 💞️ I’m looking to collaborate on python specif
+- 🌱 I’m currently learning javascirptm mto experct and hoping to learn django
+- 💞️ I’m looking to collaborate on python specific tasks
 - 📫 How to reach me aheisleycook@gmail.com 
-[mastodon acount](https://mastodon.lol/@Ghostpony2)
+[mastodon acount](https://pony.social/hazelnut)
 
 <!---
 afheisleycook/afheisleycook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
