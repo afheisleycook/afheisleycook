@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afheisleycook
 - 👀 I’m interested in proggramming python and web and diasxpor and microgrid
-- 🌱 I’m currently learning microgrid and python apllications programming to help the ee sector
-- 💞️ I’m looking to collaborate on python specific tasks
+- 🌱 I’m currently learning .net and python apllications for web develop
+- 💞️ I’m looking to collaborate on .n
 i love microgrids and diaspora developement
 - 📫 How to reach me aheisleycook@gmail.com
 [main]
