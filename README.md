@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @afheisleycook
-- 👀 I’m interested in proggramming python and web and diasxpor and microgrid
+- 👀 I’m interested in proggramming python and .net programming
+- 
 - 🌱 I’m currently learning .net and python apllications for web develop
 - 💞️ I’m looking to collaborate on .n
 i love microgrids and diaspora developement
