@@ -3,7 +3,7 @@
 - 
 - 🌱 I’m currently learning .net and python apllications for web develop
 - 💞️ I’m looking to collaborate on .n
-i love microgrids and diaspora developement
+wen developement
 - 📫 How to reach me aheisleycook@gmail.com
 [main]
 <!---
