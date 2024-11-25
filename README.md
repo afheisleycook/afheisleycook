@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @afheisleycook
+👋 Hi, I’m @afheisleycook
 - 👀 I’m interested in proggramming python and .net programming
 - 
 - 🌱 I’m currently learning .net and python apllications for web develop
 - 💞️ I’m looking to collaborate on .n
-wen developement
+webdevelopement
 - 📫 How to reach me aheisleycook@gmail.com
 [main]
 <!---
