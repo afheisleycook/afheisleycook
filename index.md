@@ -1,3 +1,4 @@
+![Austin's Headshot](assets/headshot.png)
 
 # 🌟 Austin's Portfolio
 
