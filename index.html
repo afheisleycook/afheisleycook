@@ -3,140 +3,147 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Austin Heisley Cook - Developer</title>
+    <meta name="description" content="Austin Heisley Cook - Software Developer specializing in Python and .NET development">
+    <title>Austin Heisley Cook - Software Developer</title>
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-        
+
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
             display: flex;
             justify-content: center;
             align-items: center;
             padding: 20px;
         }
-        
+
         .container {
             max-width: 800px;
             background: white;
             border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
             padding: 60px;
-            text-align: center;
+            animation: fadeIn 0.8s ease-in;
         }
-        
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
         h1 {
-            font-size: 3em;
-            margin-bottom: 20px;
+            font-size: 2.5em;
             color: #667eea;
+            margin-bottom: 10px;
         }
-        
+
         .subtitle {
-            font-size: 1.5em;
-            color: #666;
+            font-size: 1.3em;
+            color: #764ba2;
             margin-bottom: 30px;
         }
-        
-        .about {
-            text-align: left;
-            margin: 40px 0;
-            line-height: 1.8;
+
+        .section {
+            margin: 30px 0;
         }
-        
-        .skills {
-            margin: 40px 0;
-        }
-        
-        .skills h2 {
+
+        .section h2 {
             color: #667eea;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
             margin-bottom: 20px;
         }
-        
-        .skill-tags {
+
+        .skills {
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
-            justify-content: center;
         }
-        
+
         .skill-tag {
-            background: #667eea;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 10px 20px;
-            border-radius: 25px;
+            padding: 8px 16px;
+            border-radius: 20px;
             font-size: 0.9em;
         }
-        
-        .contact {
-            margin-top: 40px;
+
+        .contact-links {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
         }
-        
-        .contact a {
-            display: inline-block;
-            margin: 10px;
-            padding: 15px 30px;
-            background: #667eea;
-            color: white;
+
+        .contact-links a {
+            color: #667eea;
             text-decoration: none;
-            border-radius: 30px;
-            transition: transform 0.3s, box-shadow 0.3s;
+            font-weight: 500;
+            transition: color 0.3s;
         }
-        
-        .contact a:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+
+        .contact-links a:hover {
+            color: #764ba2;
         }
-        
-        @media (max-width: 768px) {
+
+        @media (max-width: 600px) {
             .container {
                 padding: 30px;
             }
-            
+
             h1 {
                 font-size: 2em;
             }
-            
+
             .subtitle {
-                font-size: 1.2em;
+                font-size: 1.1em;
             }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>👋 Hi, I'm Austin Heisley Cook</h1>
-        <p class="subtitle">Software Developer | Python & .NET Enthusiast</p>
-        
-        <div class="about">
+        <h1>Austin Heisley Cook</h1>
+        <p class="subtitle">Software Developer</p>
+
+        <div class="section">
             <h2>About Me</h2>
-            <p>I'm a passionate software developer focusing on building robust and scalable applications with Python and .NET. I love creating solutions that make a difference and continuously learning new technologies to expand my skillset.</p>
+            <p>Passionate software developer with expertise in Python and .NET development. I love building efficient, scalable solutions and continuously learning new technologies.</p>
         </div>
-        
-        <div class="skills">
-            <h2>Skills & Technologies</h2>
-            <div class="skill-tags">
+
+        <div class="section">
+            <h2>Skills</h2>
+            <div class="skills">
                 <span class="skill-tag">Python</span>
-                <span class="skill-tag">C#</span>
                 <span class="skill-tag">.NET</span>
-                <span class="skill-tag">HTML5</span>
-                <span class="skill-tag">CSS3</span>
+                <span class="skill-tag">C#</span>
                 <span class="skill-tag">JavaScript</span>
+                <span class="skill-tag">SQL</span>
                 <span class="skill-tag">Git</span>
-                <span class="skill-tag">GitHub</span>
+                <span class="skill-tag">API Development</span>
+                <span class="skill-tag">Web Development</span>
             </div>
         </div>
-        
-        <div class="contact">
-            <h2>Get In Touch</h2>
-            <a href="https://github.com/afheisleycook" target="_blank">GitHub Profile</a>
-            <a href="mailto:aheisleycook@gmail.com">Email Me</a>
+
+        <div class="section">
+            <h2>Contact</h2>
+            <div class="contact-links">
+                <a href="https://github.com/afheisleycook">GitHub</a>
+                <a href="mailto:contact@example.com">Email</a>
+                <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+            </div>
         </div>
     </div>
 </body>
