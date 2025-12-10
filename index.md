@@ -1,3 +1,4 @@
+
 # 🌟 Austin's Portfolio
 
 Welcome to my portfolio hub — a space where I blend **technical mastery** with **creative expression**.
@@ -23,9 +24,9 @@ Welcome to my portfolio hub — a space where I blend **technical mastery** with
 ---
 
 ## 🎨 Branding & Rituals
-- Badge‑style ASCII logos
-- Emoji dividers for readability
-- Symbolic motifs that make technical work feel personal
+✨ Badge‑style ASCII logos  
+✨ Emoji dividers for readability  
+✨ Symbolic motifs that make technical work feel personal  
 
 ---
 
