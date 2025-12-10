@@ -45,6 +45,6 @@ Welcome to my portfolio hub — a space where I blend **technical mastery** with
 ---
 
 ## 🔗 Connect
-- [GitHub](https://github.com/<your-username>)
+- [GitHub](https://github.com/afheisleycook)
 - [LinkedIn](https://linkedin.com/in/<your-profile>)
 - [Portfolio Website](https://yourwebsite.com)
