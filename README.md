@@ -30,7 +30,7 @@ I'm looking to collaborate on:
 - .NET projects
 - Python web development
 - Open source contributions
-q 
+- .net web dev
 
 ## 📫 How to Reach Me
 - Email: aheisleycook@gmail.com
