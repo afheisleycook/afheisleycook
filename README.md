@@ -7,6 +7,7 @@ Developer • Creative Ritualist
 ## 🧠 Philosophy
 
 
+
 ---
 
 ## 🛠️ Languages
@@ -41,5 +42,12 @@ Developer • Creative Ritualist
 
 ---
 
+## 📊 Stats & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afheisleycook&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afheisleycook&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afheisleycook&theme=radical)
+
+---
+
 ## 📫 Connect
-- GitHub: [YourUsername](https://github.com/YourUsername)  
+- GitHub: [afheisleycook](https://github.com/afheisleycook)  
