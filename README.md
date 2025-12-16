@@ -1,11 +1,15 @@
-
 # Hi, I'm Austin 👋
 
 Developer • Creative Ritualist
 
-![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=github)
-![Automation](https://img.shields.io/badge/Automation-Driven-green?style=for-the-badge)
-![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
+---
+
+## 🧠 Philosophy
+
+
+---
+
+## 🛠️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -13,29 +17,19 @@ Developer • Creative Ritualist
 
 ---
 
-## 🧠 Philosophy
-
----
-
-## 🛠️ Languages
-- Python  
-- C#  
-- Swift/SwiftUI  
-- .NET / ASP.NET Core  
-
----
-
 ## ⚡ Tools & Automation
-- Config-driven automation & cross-platform workflows  
-- CI/CD pipelines polished with professional documentation  
-- AI-powered creativity and productivity  
+![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=github)
+![Automation](https://img.shields.io/badge/Automation-Driven-green?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Workflow-orange?style=for-the-badge&logo=githubactions&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
 ## 🎨 Creative Rituals
-- Expressive logos, ASCII motifs, and anime-inspired visuals  
-- Cozy badge-style emblems for clubs and communities  
-- Iterative art for friends and creative hubs  
+![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
+![ASCII Art](https://img.shields.io/badge/ASCII-Expressive-lightgrey?style=for-the-badge)
+![Anime Inspired](https://img.shields.io/badge/Anime-Inspired-pink?style=for-the-badge)
 
 ---
 
@@ -48,4 +42,4 @@ Developer • Creative Ritualist
 ---
 
 ## 📫 Connect
-- GitHub: [ahstin](https://github.com/afheisleycook)  
+- GitHub: [YourUsername](https://github.com/YourUsername)  
