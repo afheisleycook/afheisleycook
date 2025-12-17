@@ -26,6 +26,13 @@ Developer • Creative Ritualist
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
+## 📱 Mobile Development
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+--
+
 
 ## 🎨 Creative Rituals
 ![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
