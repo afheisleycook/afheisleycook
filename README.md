@@ -1,19 +1,51 @@
+# Hi, I'm Austin 👋
 
-# Austin's Developer Identity ⚡
+💻 Developer | 🎨 Creative Ritualist | 🌍 Community Builder  
 
-## 🔷 Microsoft Stack
-![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+I thrive at the intersection of **technical mastery** and **expressive creativity** — coding across PowerShell, Python, Swift/SwiftUI, .NET, and web app stacks like ASP.NET Core, while designing cozy motifs, ASCII art, and badge-style logos that honor connection and identity.
 
 ---
 
-## 🌐 Cross-Platform & Creative Stack
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![iOS](https://img.shields.io/badge/iOS-gray?style=for-the-badge&logo=apple)
-![Love](https://img.shields.io/badge/♥-Annalise-pink?style=for-the-badge)
+## 🚀 Skills & Tools
+
+**Languages & Frameworks**  
+![PowerShell](https://img.shields.io/badge/PowerShell-2C2D72?logo=powershell&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+
+**Tools & Platforms**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)  
+![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+
+---
+
+## 📌 Pinned Projects
+
+- **ASP.NET Core Blog** — Authentication & role-based access for admin vs user.  
+- **Badge & Emblem Designs** — ASCII motifs and anime-inspired visuals for clubs and community identity.  
+- **Automation Scripts** — Config-driven PowerShell and Python utilities for daily rituals.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+
+---
+
+## 🌸 Community & Identity
+
+- Founder of **Programmers Club**, **AI Club**, and **Safe Friends Club** — fostering warmth and inclusion.  
+- Designing timeless emblems and cozy motifs to honor relationships and creative rituals.  
+- ✨ Tribute emblem for Annalise — a radiant centerpiece of my creative hub.
+
+---
+
+## 🎨 ASCII Divider
+
