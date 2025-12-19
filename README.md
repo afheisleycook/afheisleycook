@@ -22,6 +22,7 @@ I thrive at the intersection of **technical mastery** and **expressive creativit
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![MX Linux](https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Your Daily Distro](https://img.shields.io/badge/Your%20Daily%20Distro-MX%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
