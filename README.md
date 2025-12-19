@@ -21,6 +21,7 @@ I thrive at the intersection of **technical mastery** and **expressive creativit
 ![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+![MX Linux](https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
