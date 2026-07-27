@@ -2,7 +2,7 @@
 
 💻 Developer | 🎨 Creative Ritualist | 🌍 Community Builder  
 
-I thrive at the intersection of **technical mastery** and **expressive creativity** — coding across PowerShell, Python, Swift/SwiftUI, .NET, and web app stacks like ASP.NET Core, while designing cozy motifs, ASCII art, and badge-style logos that honor connection and identity.
+I thrive at the intersection of **technical mastery** and **expressive creativity** — coding across PowerShell, Python, Swift/SwiftUI, .NET, and web app stacks like ASP.NET Core, while designing [...]
 
 ---
 
@@ -19,6 +19,7 @@ I thrive at the intersection of **technical mastery** and **expressive creativit
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)  
 ![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)  
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
