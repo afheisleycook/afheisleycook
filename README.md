@@ -2,7 +2,8 @@
 
 💻 Developer | 🎨 Creative Ritualist | 🌍 Community Builder  
 
-I thrive at the intersection of **technical mastery** and **expressive creativity** — coding across PowerShell, Python, Swift/SwiftUI, .NET, and web app stacks like ASP.NET Core, while designing [...]
+I thrive at the intersection of **technical mastery** and **expressive creativity** — coding across PowerShell, Python, Swift/SwiftUI, .NET, and web app stacks like ASP.NET Core,
+i am learning kotlin for work and swift
 
 ---
 
