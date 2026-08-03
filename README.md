@@ -46,7 +46,8 @@ I thrive at the intersection of **technical mastery** and **expressive creativit
 
 - Founder of **Programmers Club**, **AI Club**, and **Safe Friends Club** — fostering warmth and inclusion.  
 - Designing timeless emblems and cozy motifs to honor relationships and creative rituals.  
-- ✨ Tribute emblem for Annalise — a radiant centerpiece of my creative hub.
+- ✨ i love programing and communities. i hanf out in apple community
+- my friends are fries Peter and luna and Hannah we are programmers
 
 ---
 
