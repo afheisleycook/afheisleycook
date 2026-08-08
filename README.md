@@ -1,7 +1,20 @@
-hello i am Austin.
+# Hello, I'm Austin 👋
 
-i do Sharp and swift.
+I'm passionate about software development and open source contribution.
 
-i do open source development.
+## 💻 Skills & Languages
+- **C#** (Sharp)
+- **Swift**
+- **Python** ❤️
 
-i love python.
+## 🛠️ What I Do
+- Open source development
+- Cross-platform software development
+
+## 🖥️ Environment
+- **OS**: Fedora
+- **Language**: Python
+
+---
+
+Feel free to check out my projects and contributions!
