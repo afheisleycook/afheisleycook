@@ -32,7 +32,7 @@ Hello — I'm Austin (GitHub: @afheisleycook). I'm a software developer who love
 - Open source maintainer and contributor — experience managing issues, releases, and CI for small-to-medium sized projects
 
 ## Education
-- Graduated Santa Monica ASA — Web Developer
+- Graduated Santa Monica ASA — Web Developer, Associate's degree
 
 ## Contact & Social
 - GitHub: https://github.com/afheisleycook
