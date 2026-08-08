@@ -26,3 +26,6 @@ You can find my main repository at [technoshy](https://git.keimai.space/technosh
 
 ## 📝 Blog
 Check out my blog: [https://aheisleycook.pythonanywhere.com/](https://aheisleycook.pythonanywhere.com/)
+
+## 👤 Bio page
+Learn more about me on my GitHub profile: [afheisleycook](https://github.com/afheisleycook). If you have a separate personal bio page you'd like linked here, tell me the URL and I'll add it.
