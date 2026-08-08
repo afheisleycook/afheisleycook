@@ -1,5 +1,7 @@
 # Hello, I'm Austin 👋
 
+[![Main repo](https://img.shields.io/badge/main_repo-technoshy-blue?logo=github&logoColor=white)](https://git.keimai.space/technoshy)
+
 I'm passionate about software development and open source contribution.
 
 ## 💻 Skills & Languages
