@@ -37,7 +37,8 @@ Hello — I'm Austin (GitHub: @afheisleycook). I'm a software developer who love
 ## Contact & Social
 - GitHub: https://github.com/afheisleycook
 - Blog: https://aheisleycook.pythonanywhere.com/
-- If you'd like an email contact added here, tell me the address you'd like to publish.
+- Email: [aheisleycook@gmail.com](mailto:aheisleycook@gmail.com)
+- If you'd like an alternate email or privacy-friendly variant, tell me and I'll update it.
 
 ## How to Collaborate
 - Open an issue on the relevant repository to propose changes or features.
