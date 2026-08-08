@@ -1,6 +1,6 @@
 # About Austin (afheisleycook)
 
-Hello — I'm Austin (GitHub: @afheisleycook). I'm a software developer who loves building cross-platform tools and contributing to open source. I focus on readable, maintainable code and enjoy working across the full stack when needed.
+Hello — I'm Austin (GitHub: @afheisleycook). I'm a software developer who loves building cross-platform tools and contributing to open source. I focus on readable, maintainable code and enjoy wor[...]
 
 - Age: 34
 
@@ -20,8 +20,8 @@ Hello — I'm Austin (GitHub: @afheisleycook). I'm a software developer who love
 - Primary language: Python
 
 ## Featured Projects
-- technoshy — my main repo and collection of projects: https://git.keimai.space/technoshy
-- This repository — personal profile and examples: https://github.com/afheisleycook/afheisleycook
+- technoshy — my personal repo and collection of projects: https://git.keimai.space/technoshy
+- afheisleycook — my main repository, personal profile, and examples: https://github.com/afheisleycook/afheisleycook
 
 ## Notable Contributions
 - Contributor to open source libraries and utilities focused on developer tooling and cross-platform support.
@@ -54,4 +54,4 @@ Hello — I'm Austin (GitHub: @afheisleycook). I'm a software developer who love
 
 ---
 
-If you'd like different wording, additional specific entries (detailed experience, individual project descriptions, education entries, or contact details), or a tailored layout, tell me exactly what to include and I'll update BIO.md accordingly.
+If you'd like different wording, additional specific entries (detailed experience, individual project descriptions, education entries, or contact details), or a tailored layout, tell me exactly wh[...]
