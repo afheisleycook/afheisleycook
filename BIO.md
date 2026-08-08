@@ -2,6 +2,8 @@
 
 Hello — I'm Austin (GitHub: @afheisleycook). I'm a software developer who loves building cross-platform tools and contributing to open source. I focus on readable, maintainable code and enjoy working across the full stack when needed.
 
+- Age: 34
+
 ## What I work on
 - Open source projects and libraries
 - Cross-platform desktop and mobile apps
@@ -30,7 +32,7 @@ Hello — I'm Austin (GitHub: @afheisleycook). I'm a software developer who love
 - Open source maintainer and contributor — experience managing issues, releases, and CI for small-to-medium sized projects
 
 ## Education
-- Formal education and certifications can go here. (Let me know if you want me to add specific schools, degrees, or certifications.)
+- Graduated from Santa Monica
 
 ## Contact & Social
 - GitHub: https://github.com/afheisleycook
