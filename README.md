@@ -18,3 +18,6 @@ I'm passionate about software development and open source contribution.
 ---
 
 Feel free to check out my projects and contributions!
+
+## 🔗 Main repo
+You can find my main repository at [technoshy](https://git.keimai.space/technoshy).
