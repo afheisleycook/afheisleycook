@@ -30,4 +30,4 @@ Check out my blog: [https://aheisleycook.pythonanywhere.com/](https://aheisleyco
 ## 👤 Bio page
 Learn more about me on my GitHub profile: [afheisleycook](https://github.com/afheisleycook).
 
-You can also read my detailed bio here: [bio.md](bio.md)
+You can also read my detailed bio here: [BIO.md](BIO.md)
