@@ -1,4 +1,4 @@
-# Hello, I'm Austin 👋
+# Hello, I'm technoshy 👋
 
 [![Main repo](https://img.shields.io/badge/main_repo-technoshy-blue?logo=github&logoColor=white)](https://git.keimai.space/technoshy)
 
