@@ -2,7 +2,7 @@
 
 [![Main repo](https://img.shields.io/badge/main_repo-technoshy-blue?logo=github&logoColor=white)](https://git.keimai.space/technoshy)
 
-I'm passionate about software development and open source contribution.
+I'm passionate about **Linux**, **open source** development, and creating software that makes a difference.
 
 ## 💻 Skills & Languages
 - **C#** (Sharp)
@@ -12,6 +12,7 @@ I'm passionate about software development and open source contribution.
 ## 🛠️ What I Do
 - Open source development
 - Cross-platform software development
+- Linux enthusiast
 
 ## 🖥️ Environment
 - **OS**: Fedora
