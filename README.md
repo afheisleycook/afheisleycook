@@ -6,7 +6,7 @@ I'm passionate about **Linux**, **open source** development, and creating softwa
 
 ## 💻 Skills & Languages
 - **C#** (Sharp)
-- **Swift**
+- **Java**
 - **Python** ❤️
 
 ## 🛠️ What I Do
