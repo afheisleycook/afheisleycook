@@ -1,18 +1,16 @@
-# Hello, I'm technoshy 👋
+# Programming Fox 🦊
 
-[![Main repo](https://img.shields.io/badge/main_repo-technoshy-blue?logo=github&logoColor=white)](https://git.keimai.space/technoshy)
-
-I'm passionate about **Linux**, **open source** development, and creating software that makes a difference.
+Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative software solutions.
 
 ## 💻 Skills & Languages
-- **C#** (Sharp)
-- **Java**
 - **Python** ❤️
+- **Java**
+- **C#** (Sharp)
 
-## 🛠️ What I Do
+## 🦊 What I Do
 - Open source development
 - Cross-platform software development
-- Linux enthusiast
+- Building tools and applications
 
 ## 🖥️ Environment
 - **OS**: Fedora
@@ -22,13 +20,10 @@ I'm passionate about **Linux**, **open source** development, and creating softwa
 
 Feel free to check out my projects and contributions!
 
-## 🔗 Main repo
-You can find my main repository at [technoshy](https://git.keimai.space/technoshy).
-
 ## 📝 Blog
 Check out my blog: [https://aheisleycook.pythonanywhere.com/](https://aheisleycook.pythonanywhere.com/)
 
-## 👤 Bio page
+## 👤 Bio
 Learn more about me on my GitHub profile: [afheisleycook](https://github.com/afheisleycook).
 
 You can also read my detailed bio here: [BIO.md](BIO.md)
