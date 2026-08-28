@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating inn
 - Building tools and applications
 
 ## 🖥️ Environment
-- **OS**: Fedora
+- **OS**: Linux Mint
 - **Language**: Python
 
 ---
