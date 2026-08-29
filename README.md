@@ -25,6 +25,6 @@ Feel free to check out my projects and contributions!
 - https://technoshy.pythonanywhere.com/
 
 ## 👤 Bio
-Learn more about me on my GitHub profile: [afheisleycook](https://github.com/afheisleycook).
+Learn more about me on my GitHub profile: [technoshy](https://github.com/technoshy).
 
 You can also read my detailed bio here: [BIO.md](BIO.md)
