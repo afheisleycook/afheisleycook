@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating inn
 - AI enthusiast
 
 ## 🖥️ Environment
-- **OS**: Linux Mint
+- **OS**: Nix OS
 - **Language**: Python
 
 ---
