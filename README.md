@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating inn
 Feel free to check out my projects and contributions!
 
 ## 📝 Blog
-Check out my blog: [https://aheisleycook.pythonanywhere.com/](https://aheisleycook.pythonanywhere.com/)
 - https://technoshy.pythonanywhere.com/
 
 ## 👤 Bio
