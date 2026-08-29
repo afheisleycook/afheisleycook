@@ -22,6 +22,7 @@ Feel free to check out my projects and contributions!
 
 ## 📝 Blog
 Check out my blog: [https://aheisleycook.pythonanywhere.com/](https://aheisleycook.pythonanywhere.com/)
+- https://technoshy.pythonanywhere.com/
 
 ## 👤 Bio
 Learn more about me on my GitHub profile: [afheisleycook](https://github.com/afheisleycook).
