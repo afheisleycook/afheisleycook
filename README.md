@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating inn
 - Open source development
 - Cross-platform software development
 - Building tools and applications
+- AI enthusiast
 
 ## 🖥️ Environment
 - **OS**: Linux Mint
@@ -20,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating inn
 
 Feel free to check out my projects and contributions!
 
-## 📝 Blog
+## 🎨 Portfolio
 - https://technoshy.pythonanywhere.com/
 
 ## 👤 Bio
